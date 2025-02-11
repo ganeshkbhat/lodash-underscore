@@ -34,7 +34,7 @@
     "@types/node": "^20.11.17",
     "chai": "^4.4.1",
     "clean-pkg-json": "^1.2.0",
-    "esbuild": "^0.20.0",
+    "esbuild": "^0.25.0",
     "mocha": "^10.2.0",
     "pre-commit": "^1.2.2",
     "pre-push": "^0.1.4",
